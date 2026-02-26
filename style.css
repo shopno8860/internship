@@ -58,6 +58,7 @@ select,
 textarea {
   width: 100%;
   padding: 10px;
+  height:40px;
   border-radius: 6px;
   border: none;
   outline: none;
@@ -110,9 +111,7 @@ button:hover {
 }
 
 
-/* =========================
-   Mobile Responsive (≤576px)
-========================= */
+
 @media (max-width: 576px) {
 
   .form-container {
